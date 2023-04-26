@@ -5,7 +5,7 @@ A traffic sign classification using Deep Learning. The final model reach :
 We create GUI using Tkinter : 
 ![alt text](.\screenShot\Screenshot 2023-04-26 215401.png)
 
-![alt text]("https://raw.githubusercontent.com/HafsaOuaj/TraficSignRecognition-CNN-and-Keras-/main/screenShot/1.png?token=GHSAT0AAAAAACBXY6IA7MVWSQYKWMSPKQLMZCJQPDQ")
+![alt text](https://raw.githubusercontent.com/HafsaOuaj/TraficSignRecognition-CNN-and-Keras-/main/screenShot/1.png)
 
 ![alt text](.\screenShot\2.png)
 
